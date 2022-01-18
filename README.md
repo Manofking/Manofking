@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Manofking's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manofking)](https://github.com/Manofking/github-readme-stats)
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/nolenja/subinium/notebook)](https://www.kaggle.com/nolenja)
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)](https://www.kaggle.com/subinium)
 
   <div align=center>
 	
