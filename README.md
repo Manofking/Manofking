@@ -2,7 +2,7 @@
 
 ### Here is what I'm Workking on !👋
 
-[![GitHub followers](https://img.shields.io/github/followers/strengejacke?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2FManofking)
+[![GitHub followers](https://img.shields.io/github/followers/Manofking?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2FManofking)
 
 - 👋 Hi, I’m @Manofking
 - 👀 I’m interested in ...
