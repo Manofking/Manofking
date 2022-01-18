@@ -6,7 +6,6 @@
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Man-King)
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
-
 <div align=leftr>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
