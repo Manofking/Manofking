@@ -12,7 +12,7 @@ Manofking/Manofking is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/subinium)](https://www.kaggle.com/nolenja)
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
 
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
