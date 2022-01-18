@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Manofking/Manofking/blob/main/SAM_0873.JPG)
+![Design and Development](https://github.com/Manofking/Manofking/blob/main/12.jpg)
 
 ### Here is what I'm Workking on !👋
 
