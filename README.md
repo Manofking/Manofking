@@ -4,8 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Manofking?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2FManofking)
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Man-King)
-
-
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
 
 - 👋 Hi, I’m @Manofking
 - 👀 I’m interested in ...
@@ -17,10 +17,6 @@
 Manofking/Manofking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
-	
 
 
 [![Manofking's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manofking)](https://github.com/Manofking/github-readme-stats)
