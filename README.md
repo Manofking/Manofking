@@ -1,5 +1,3 @@
-![Design and Development](https://github.com/Manofking/Manofking/blob/main/13.jpg)
-
 ### Here is what I'm Workking on !👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Manofking?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2FManofking)
