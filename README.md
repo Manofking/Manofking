@@ -27,14 +27,17 @@ You can click the Preview link to take a look at your changes.
   
   
   **Languages and Tools**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrliwVdedqZFMLXRLVTZmO1ifAY97kh38e2092HlQvHUduaAUhvMWQY_Twgk98LldcOA&usqp=CAU"></code>
+<code><img height="20" src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204719/images/stata-logo.png"></code>
+<code><img height="20" src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F"></code>
+<code><img height="20" src="https://img.informer.com/icons/png/128/7141/7141307.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrliwVdedqZFMLXRLVTZmO1ifAY97kh38e2092HlQvHUduaAUhvMWQY_Twgk98LldcOA&usqp=CAU"></code>
+
 
 #### 👋 Project ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 6.4)
 
