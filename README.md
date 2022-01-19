@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
   
   
   **Languages and Tools**  
+  
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrliwVdedqZFMLXRLVTZmO1ifAY97kh38e2092HlQvHUduaAUhvMWQY_Twgk98LldcOA&usqp=CAU"></code>
 <code><img height="20" src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204719/images/stata-logo.png"></code>
 <code><img height="20" src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F"></code>
