@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Manofking's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manofking&show_icons=true&theme=cobalt)
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
+[![](https://road-to-kaggle-novice.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
 
   
   
