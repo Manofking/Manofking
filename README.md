@@ -16,6 +16,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kdbsh0202@naver.com yhroh0202@gmail.com
+* [My kaggle site](https://www.kaggle.com/nolenja): My Kaggle site
 
 <!---
 Manofking/Manofking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
