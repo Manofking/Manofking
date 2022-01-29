@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kdbsh0202@naver.com yhroh0202@gmail.com
-* <code><img height="20" src="https://miro.medium.com/max/846/1*vdNc_eV8fY9OxikxGW9nWg.png"></code> [<- My kaggle site](https://www.kaggle.com/nolenja): My Kaggle site
+* <code><img height="20" src="https://miro.medium.com/max/846/1*vdNc_eV8fY9OxikxGW9nWg.png"></code> [<- My kaggle site](https://www.kaggle.com/nolenja)
 
 <!---
 Manofking/Manofking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
