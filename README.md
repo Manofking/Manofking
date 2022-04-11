@@ -67,6 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 #### lectures and advice
 * [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
+* [Gyeonggi research institute](https://english.gri.re.kr/): Advised on the calculation of statistical indicators for the community health survey, (2017, April)
 * [Statistics Training Institute](https://sti.kostat.go.kr/coresti/site/main.do): SAS Advanced Statistical Analysis, (2018, Oct)
 
 
