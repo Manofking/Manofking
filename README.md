@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 * 👩🏻‍💻 [statistics-coded](https://github.com/eurostat/statistics-coded): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles.
 * 👩🏻‍💻 (2020.08 ~ )  [korea institute for pharmaceutical policy affairs](http://www.e-kippa.org/): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles. 
 * 👩🏻‍💻 (2016.01 ~ 2020.12) [National cancer center](https://www.ncc.re.kr/indexEn.ncc): Catalogue of resources (`SAS`) to reproduce the results of _Eurostat_ Statistics Explained articles. 
-    - [Cancer Mornitoring indicaator](https://www.cancerdata.kr/surveillance/) 
+    - [Cancer Mornitoring indicator](https://www.cancerdata.kr/surveillance/) 
 * 👩🏻‍💻 (2015.05 ~ 2015.12) [National health insurance service](https://www.nhis.or.kr/english/index.do): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles. 
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.4)
