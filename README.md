@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F"></code>
 <code><img height="20" src="https://img.informer.com/icons/png/128/7141/7141307.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></code>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <code><img height="20" src="https://blog.kakaocdn.net/dn/7wwUK/btqWKY6bqsK/Vzsv9RkivUyMG3Ch720mkK/img.png"></code>
 <code><img height="20" src="https://heropy.blog/css/images/vendor_icons/css3.png"></code>
