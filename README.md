@@ -64,12 +64,12 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Experience ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.2)
 * 👩🏻‍💻 [statistics-coded](https://github.com/eurostat/statistics-coded): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles.
-* 👩🏻‍💻 (2020.08 ~ )  [korea institute for pharmaceutical policy affairs](http://www.e-kippa.org/): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles. 
-* 👩🏻‍💻 (2016.01 ~ 2020.12) [National cancer center](https://www.ncc.re.kr/indexEn.ncc): Catalogue of resources (`SAS`) to reproduce the results of _Eurostat_ Statistics Explained articles. 
+* 👩🏻‍💻 [korea institute for pharmaceutical policy affairs](http://www.e-kippa.org/): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles. 
+* 👩🏻‍💻 [National cancer center](https://www.ncc.re.kr/indexEn.ncc): Catalogue of resources (`SAS`) to reproduce the results of _Eurostat_ Statistics Explained articles. 
     - [Cancer Mornitoring indicator](https://www.cancerdata.kr/surveillance/) 
-* 👩🏻‍💻 (2015.05 ~ 2015.12) [seoul healthfoundation](http://www.seoulhealth.kr/main?isMobile=N): SAS) to reproduce the results of _Eurostat_ Statistics Explained articles.     
+* 👩🏻‍💻 [seoul healthfoundation](http://www.seoulhealth.kr/main?isMobile=N): SAS) to reproduce the results of _Eurostat_ Statistics Explained articles.     
     - [2015 monitoring of health disparities, seoul report]
-* 👩🏻‍💻 (2014.05 ~ 2014.12) [National health insurance service](https://www.nhis.or.kr/english/index.do): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles. 
+* 👩🏻‍💻 [National health insurance service](https://www.nhis.or.kr/english/index.do): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles. 
 
 ---
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.4)
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 ---
 #### lectures and advice
 * [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
-* [Gyeonggi research institute/Dept. of ecology and environment](https://english.gri.re.kr/): Advised on the calculation of statistical indicators for the community health survey, (2017, April)
-* [Statistics Training Institute](https://sti.kostat.go.kr/coresti/site/main.do): SAS Advanced Statistical Analysis, (2018, Oct)
+* [Gyeonggi research institute/Dept. of ecology and environment](https://english.gri.re.kr/): Advised on the calculation of statistical indicators for the community health survey
+* [Statistics Training Institute](https://sti.kostat.go.kr/coresti/site/main.do): SAS Advanced Statistical Analysis
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
