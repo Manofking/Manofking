@@ -7,9 +7,8 @@
 <code><img height="20" src="https://miro.medium.com/max/846/1*vdNc_eV8fY9OxikxGW9nWg.png"></code>
 [![](https://road-to-kaggle-novice.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
 <div align=leftr>	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
-
-	<p align=center>
+	
+<p align=left>
 <img height="25" src="https://badges.pufler.dev/visits/manofking/manofking?color=black&logo=github" />
 <img height="25" src="https://komarev.com/ghpvc/?username=manofking&color=brightgreen" />
 <a href="https://github.com/manofking">
@@ -76,5 +75,4 @@ You can click the Preview link to take a look at your changes.
 * [Gyeonggi research institute/Dept. of ecology and environment](https://english.gri.re.kr/): Advised on the calculation of statistical indicators for the community health survey, (2017, April)
 * [Statistics Training Institute](https://sti.kostat.go.kr/coresti/site/main.do): SAS Advanced Statistical Analysis, (2018, Oct)
 
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
