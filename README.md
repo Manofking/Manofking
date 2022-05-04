@@ -33,11 +33,6 @@ You can click the Preview link to take a look at your changes.
 [![](https://road-to-kaggle-novice.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
 
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/discussion/light)
-
   **Languages and Tools**  
 
 <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrliwVdedqZFMLXRLVTZmO1ifAY97kh38e2092HlQvHUduaAUhvMWQY_Twgk98LldcOA&usqp=CAU" width="36" height="36" alt="Python" /></a>
@@ -78,5 +73,12 @@ You can click the Preview link to take a look at your changes.
 * [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
 * [Gyeonggi research institute/Dept. of ecology and environment](https://english.gri.re.kr/): Advised on the calculation of statistical indicators for the community health survey, (2017, April)
 * [Statistics Training Institute](https://sti.kostat.go.kr/coresti/site/main.do): SAS Advanced Statistical Analysis, (2018, Oct)
+
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ruchi798/discussion/light)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
