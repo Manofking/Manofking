@@ -6,17 +6,14 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
 <code><img height="20" src="https://miro.medium.com/max/846/1*vdNc_eV8fY9OxikxGW9nWg.png"></code>
 [![](https://road-to-kaggle-novice.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
-<div align=leftr>
-	
+<div align=leftr>	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
 <p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/manofking/manofking?color=black&logo=github" />
 <img height="25" src="https://komarev.com/ghpvc/?username=manofking&color=brightgreen" />
 <a href="https://github.com/manofking">
 </a>
-</p>
-	
-	
+</p>	
 	
 </div>
   
