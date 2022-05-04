@@ -71,3 +71,9 @@ You can click the Preview link to take a look at your changes.
 * [Statistics Training Institute](https://sti.kostat.go.kr/coresti/site/main.do): SAS Advanced Statistical Analysis, (2018, Oct)
 
 
+<p align=center>
+<img height="25" src="https://badges.pufler.dev/visits/manofking/manofking?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=manofking&color=brightgreen" />
+<a href="https://github.com/manofking">
+</a>
+</p>
