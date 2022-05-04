@@ -32,8 +32,12 @@ You can click the Preview link to take a look at your changes.
 ![Manofking's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manofking&show_icons=true&theme=cobalt)
 [![](https://road-to-kaggle-novice.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
 
-  
-  
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/discussion/light)
+
   **Languages and Tools**  
 
 <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrliwVdedqZFMLXRLVTZmO1ifAY97kh38e2092HlQvHUduaAUhvMWQY_Twgk98LldcOA&usqp=CAU" width="36" height="36" alt="Python" /></a>
