@@ -8,6 +8,11 @@
 [![](https://road-to-kaggle-novice.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
 <div align=leftr>	
 	
+<p align=center>
+<a href="https://www.kaggle.com/nolenja"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+</p>
+
+	
 <p align=left>
 <img height="25" src="https://badges.pufler.dev/visits/manofking/manofking?color=black&logo=github" />
 <img height="25" src="https://komarev.com/ghpvc/?username=manofking&color=brightgreen" />
