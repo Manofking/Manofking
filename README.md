@@ -5,8 +5,8 @@
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja/code)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
 <code><img height="20" src="https://miro.medium.com/max/846/1*vdNc_eV8fY9OxikxGW9nWg.png"></code>
-[![](https://road-to-kaggle-novice.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja)
 <div align=leftr>		
+	
 <p align=leftr>
 <a href="https://www.kaggle.com/nolenja"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 </p>
