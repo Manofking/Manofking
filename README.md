@@ -16,14 +16,14 @@
 </p>	
 	
 </div>
-  ---
+
 - 👋 Hi, I’m @Manofking
 - 👀 I’m interested in Data scidence, ML, DL and Epidemiology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kdbsh0202@naver.com yhroh0202@gmail.com
 - 🚀  I'm currently working on [my Kaggle profile.](https://www.kaggle.com/nolenja)
----
+
 
 <!---
 Manofking/Manofking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
