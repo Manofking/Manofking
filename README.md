@@ -75,7 +75,9 @@ You can click the Preview link to take a look at your changes.
 * [Statistics Training Institute](https://sti.kostat.go.kr/coresti/site/main.do): SAS Advanced Statistical Analysis, (2018, Oct)
 
 
-![notebook](https://road-to-kaggle-Novice.vercel.app/api/badges/nolenja/notebook/light)
+![nolenja](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{nolenja})
+
+
 ![discussion](https://road-to-kaggle-Novice.vercel.app/api/badges/nolenja/discussion/light)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
