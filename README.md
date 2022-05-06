@@ -53,11 +53,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 [![](https://road-to-kaggle-novice.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
-https://www.kaggle.com/nolenja
 
 ---
 
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
