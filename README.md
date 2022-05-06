@@ -51,25 +51,25 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://img.extrememanual.net/2019/03/Adobe_Premiere_Pro_title.jpg"></code>
 
 ---
-#### 👋  ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 6.4)
+#### 👋  
 
 * 
 * 
 
 ---
-#### V ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.2)
+#### V 
 
 * 
 
 ---
 
 ---
-#### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.4)
+#### Acces
 
-* [.
+* 
 
 ---
-#### lectures and advice
+#### l
 * 
 * 
 * 
