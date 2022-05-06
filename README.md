@@ -53,7 +53,16 @@ You can click the Preview link to take a look at your changes.
 ---
 
 [![](https://road-to-kaggle-novice.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
+https://www.kaggle.com/nolenja
 
 ---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubinium)](https://hits.seeyoufarm.com)
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/subinium)](https://www.kaggle.com/subinium)
+
+![Subin's github stats](https://github-readme-stats.vercel.app/api?username=subinium&show_icons=true&hide_border=true)
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)](https://www.kaggle.com/subinium)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
 
