@@ -51,27 +51,7 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://img.extrememanual.net/2019/03/Adobe_Premiere_Pro_title.jpg"></code>
 
 ---
-#### 👋  
-
-* 
-* 
-
----
-#### 👋
-
-* 
-
----
-
----
-#### 👋
-
-* 
-
----
-#### 👋
-* 
-* 
-* 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManofking)](https://hits.seeyoufarm.com) 
+
+---
+
