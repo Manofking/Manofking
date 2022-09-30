@@ -36,7 +36,8 @@ You can click the Preview link to take a look at your changes.
 [![](https://road-to-kaggle-novice.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
 
 ---
-  **Languages and Tools**  
+  **Languages and Tools** 
+  
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/220px-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204719/images/stata-logo.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"><img src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F" width="36" height="36" alt="Python" /></a>
