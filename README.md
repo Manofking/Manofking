@@ -39,6 +39,7 @@ You can click the Preview link to take a look at your changes.
   **Languages and Tools**  
 
 <a href="https://www.sas.com/en_us/home.html" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrliwVdedqZFMLXRLVTZmO1ifAY97kh38e2092HlQvHUduaAUhvMWQY_Twgk98LldcOA&usqp=CAU" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrliwVdedqZFMLXRLVTZmO1ifAY97kh38e2092HlQvHUduaAUhvMWQY_Twgk98LldcOA&usqp=CAU" width="36" height="36" alt="Python" /></a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204719/images/stata-logo.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"><img src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F" width="36" height="36" alt="Python" /></a>
 <code><img height="20" src="https://img.informer.com/icons/png/128/7141/7141307.png"></code>
