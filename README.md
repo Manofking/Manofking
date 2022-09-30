@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/220px-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204719/images/stata-logo.png" width="36" height="36" alt="Python" /></a>
-<a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"><img src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F" width="36" height="36" alt="Python" /></a>
 <code><img height="20" src="https://img.informer.com/icons/png/128/7141/7141307.png"></code>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/7141/7141307.png" width="36" height="36" alt="Python" /></a>
