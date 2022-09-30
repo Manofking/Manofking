@@ -42,7 +42,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204719/images/stata-logo.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"><img src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F" width="36" height="36" alt="Python" /></a>
 <code><img height="20" src="https://img.informer.com/icons/png/128/7141/7141307.png"></code>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/7141/7141307.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <code><img height="20" src="https://blog.kakaocdn.net/dn/7wwUK/btqWKY6bqsK/Vzsv9RkivUyMG3Ch720mkK/img.png"></code>
