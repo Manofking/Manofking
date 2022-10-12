@@ -10,9 +10,6 @@
 <a href="https://www.kaggle.com/nolenja"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a> 
 <p align=left>
 </p>
-
-
- 
 <img height="25" src="https://badges.pufler.dev/visits/manofking/manofking?color=black&logo=github" />
 <img height="25" src="https://komarev.com/ghpvc/?username=manofking&color=brightgreen" />
 <a href="https://github.com/manofking">
