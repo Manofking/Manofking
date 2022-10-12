@@ -8,6 +8,9 @@
 <p align=leftr>
 <a href="https://www.kaggle.com/nolenja"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 </p>
+
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://manofking.github.io/)](https://manofking.github.io/) 
 	
 <p align=left>
 <img height="25" src="https://badges.pufler.dev/visits/manofking/manofking?color=black&logo=github" />
