@@ -7,10 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
 <p align=leftr>
 <a href="https://www.kaggle.com/nolenja"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://manofking.github.io/)](https://manofking.github.io/) 
+<p align=left>
 </p>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://manofking.github.io/)](https://manofking.github.io/) 
-<p align=left>
  
 <img height="25" src="https://badges.pufler.dev/visits/manofking/manofking?color=black&logo=github" />
 <img height="25" src="https://komarev.com/ghpvc/?username=manofking&color=brightgreen" />
