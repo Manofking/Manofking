@@ -5,7 +5,7 @@
 [![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Man-King)
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/nolenja)](https://www.kaggle.com/nolenja/code)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yhroh0202@gmail.com)
-/*[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://manofking.github.io/)](https://manofking.github.io/) */
+ <!--[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://manofking.github.io/)](https://manofking.github.io/) -->
 <p align=leftr>
 <a href="https://www.kaggle.com/nolenja"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a> 
 <p align=left></p>
