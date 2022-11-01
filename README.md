@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/7141/7141307.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<code><img height="20" src="https://blog.kakaocdn.net/dn/7wwUK/btqWKY6bqsK/Vzsv9RkivUyMG3Ch720mkK/img.png"></code>
+<code><img height="20" src="https://blog.kakaocdn.net/dn/7wwUK/btqWKY6bqsK/Vzsv9RkivUyMG3Ch720mkK/img.png, width="36" height="36""></code>
 <code><img height="20" src="https://heropy.blog/css/images/vendor_icons/css3.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
