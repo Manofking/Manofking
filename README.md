@@ -40,18 +40,15 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.stata.com/" target="_blank" rel="noreferrer"><img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204719/images/stata-logo.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer"><img src="https://t1.daumcdn.net/cfile/tistory/9956F4335E34499F2F" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/2072/4453.png" width="36" height="36" alt="Python" /></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/7141/7141307.png" width="36" height="36" alt="Python" /></a>
+<a href="https://surveillance.cancer.gov/joinpoint/" target="_blank" rel="noreferrer"><img src="https://img.informer.com/icons/png/128/7141/7141307.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://ko.wikipedia.org/wiki/HTML5" target="_blank" rel="noreferrer"><img src="https://blog.kakaocdn.net/dn/7wwUK/btqWKY6bqsK/Vzsv9RkivUyMG3Ch720mkK/img.png" width="36" height="36" alt="hml5" /></a>
 <a href="https://ko.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="36" height="36" alt="hml5" /></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="36" height="36" alt="hml5" /></a>
 <a href="https://ko.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" height="36" alt="hml5" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://images.velog.io/images/xohoonx2/post/e465a4e8-e75e-41ee-8834-44f27ca70ca5/g.png" height="36" alt="hml5" /></a>
+<a href="https://ko.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" height="36" alt="hml5" /></a>
 
-<code><img height="20" src="https://blog.kakaocdn.net/dn/7wwUK/btqWKY6bqsK/Vzsv9RkivUyMG3Ch720mkK/img.png, width="36" height="36""></code>
-<code><img height="20" src="https://heropy.blog/css/images/vendor_icons/css3.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://img.extrememanual.net/2019/03/Adobe_Premiere_Pro_title.jpg"></code>
 
 ---
 
