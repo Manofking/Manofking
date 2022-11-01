@@ -46,6 +46,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://ko.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="36" height="36" alt="hml5" /></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="36" height="36" alt="hml5" /></a>
 <a href="https://ko.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" height="36" alt="hml5" /></a>
+<a href="https://nodejs.org/ko/" target="_blank" rel="noreferrer"><img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fd9ZeBr%2FbtrH5eJpnMq%2FPK52szk1xNqGtGHp7RJoi1%2Fimg.png" height="36" alt="hml5" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="36" alt="hml5" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://images.velog.io/images/xohoonx2/post/e465a4e8-e75e-41ee-8834-44f27ca70ca5/g.png" height="36" alt="hml5" /></a>
 <a href="https://www.adobe.com/kr/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2343827501/B.jpg?981000000" height="36" alt="hml5" /></a>
 
