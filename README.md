@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" width="36" height="36" alt="hml5" /></a>
 <a href="https://ko.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" height="36" alt="hml5" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://images.velog.io/images/xohoonx2/post/e465a4e8-e75e-41ee-8834-44f27ca70ca5/g.png" height="36" alt="hml5" /></a>
-<a href="https://ko.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2343827501/B.jpg?981000000" height="36" alt="hml5" /></a>
+<a href="https://www.adobe.com/kr/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2343827501/B.jpg?981000000" height="36" alt="hml5" /></a>
 
 
 ---
