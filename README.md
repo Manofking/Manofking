@@ -34,6 +34,9 @@ You can click the Preview link to take a look at your changes.
 [![](https://road-to-kaggle-novice.vercel.app/api/badges/nolenja/notebook)](https://www.kaggle.com/nolenja)
 
 ---
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/nolenja/notebook/light)
+
+---
   **Languages and Tools**  
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/220px-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" width="36" height="36" alt="Python" /></a>
